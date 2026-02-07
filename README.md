@@ -86,7 +86,7 @@
 <body>
 
 <header>
-  <h1>Guardian Shield Security Services</h1>
+  <h1>Golden Protection Security Services,inc</h1>
   <nav>
     <a href="#services">Services</a>
     <a href="#about">About Us</a>
